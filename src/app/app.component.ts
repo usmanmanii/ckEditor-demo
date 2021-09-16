@@ -15,7 +15,7 @@ export class AppComponent implements OnInit {
   charactersLength = 200;
 
   ngOnInit(): void {
-    this.config = {
+    this.config = { 
       toolbar: {
         items: [
           'heading',

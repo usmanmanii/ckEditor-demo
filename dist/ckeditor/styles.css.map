@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","mappings":";;;AAAA,8EAA8E;AAC9E;IACI,aAAa;IACb,iCAAiC;AACrC,C","sources":["./src/styles.css"],"sourcesContent":["/* You can add global styles to this file, and also import other style files */\n.ck.ck-editor__editable_inline {\n    height: 350px;\n    border: 1px solid gray !important;\n}"],"names":[],"sourceRoot":"webpack:///"}
